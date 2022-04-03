@@ -1,1 +1,2 @@
 # odin-recipes
+This simple project will consist of very simple HTML pages using the basics taught from THE ODIN PROJECT and will be in the form of a recipe book with pages linking to each other and using lists and images.
