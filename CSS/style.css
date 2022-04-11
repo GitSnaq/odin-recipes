@@ -1,0 +1,70 @@
+#index-header{
+    text-align: center;
+    color:grey;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 33px; 
+}
+.header-one {
+    text-align: center;
+    background-color: cyan;
+    color:grey;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 33px;
+}
+.header-two{
+    text-align: center;
+    background-color: lightblue;
+    color: lightcoral;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+.header-three{
+    color: cyan;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+div .header-one{
+    background-color: lightseagreen;
+    color: #CC6229;
+    width: fit-content;
+    align-content: center;
+}
+div p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: green;
+    color: white;
+    border: 1px solid pink;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+span{
+    color: red;
+}
+
+ul{
+    display:inline-block;
+    border:1px solid #000;
+    padding:20px;
+    list-style: square;
+}
+
+ol{
+    display: inline-block;
+    border: 1px solid black;
+    padding-right: 28px;
+    padding-left: 28px;
+    border-radius: 5px;
+    list-style: lower-latin;
+}
+button{
+    font-style: oblique;
+    border-style: inset;
+}
+.link-button a{
+    color: green;
+}
+/*   border: 1px solid black;
+  padding-right: 0px;
+  padding-left: 28px;
+  border-radius: 5px;*/
